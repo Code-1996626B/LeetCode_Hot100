@@ -25,7 +25,6 @@ public class LeetCode_002 {
     }
 
 
-
     public static String getNumber(ListNode node) {
         StringBuilder sb = new StringBuilder();
         while (node != null) {
