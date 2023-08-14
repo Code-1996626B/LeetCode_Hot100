@@ -3,9 +3,6 @@ import java.util.Map;
 
 public class LeetCode_003 {
 
-    public static void main(String[] args) {
-
-    }
 
     public static int lengthOfLongestSubstring(String s) {
         int ans = 0, n = s.length(), left = 0;
